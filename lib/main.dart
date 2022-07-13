@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
         AppRoutes.HOME: (ctx) => CategoriesScreen(),
         AppRoutes.CATEGORIES_MEALS: (ctx) => CategoriesMealsScreen(),
       },
+      debugShowCheckedModeBanner: false,
     );
   }
 }
