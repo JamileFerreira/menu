@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../models/category.dart';
-import 'package:menu/models/meal.dart';
+import '../models/meal.dart';
 
 // ignore: unnecessary_const
 const DUMMY_CATEGORIES = [
