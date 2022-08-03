@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../screens/categories_screen.dart';
 import 'favorite_screen.dart';
+import '../components/main_drawer.dart';
 
 class TabsScreen extends StatefulWidget {
   @override
@@ -28,6 +29,7 @@ class _TabsScreenState extends State<TabsScreen> {
           _screens[_selectedScreenIdex]['title'] as String,
         ),
       ),
+      drawer: MainDrawer(),
       body: _screens[_selectedScreenIdex]['screen'] as Widget,
       bottomNavigationBar: BottomNavigationBar(
         onTap: _selectScreen,
