@@ -8,9 +8,11 @@ It's still at the beginning: So far the project already uses Legal flutter compo
 And it already has a division of components by files.
 
 
-https://user-images.githubusercontent.com/9625556/182603136-b5bd842c-ee89-48e8-bb85-ce785ffdc769.mp4
 
-https://user-images.githubusercontent.com/9625556/182022402-14220d6c-de21-4679-9600-abf12690fe1a.mp4
+
+https://user-images.githubusercontent.com/9625556/182824285-b94205c8-7d0c-44d4-9ef9-4119ef1a78d4.mp4
+
+
 
 
 
