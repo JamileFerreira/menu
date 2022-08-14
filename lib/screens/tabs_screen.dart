@@ -20,7 +20,7 @@ class _TabsScreenState extends State<TabsScreen> {
     super.initState();
     _screens = [
       {
-        'title': 'Lista de Categorias?',
+        'title': 'Lista de Categorias',
         'screen': CategoriesScreen(),
       },
       {

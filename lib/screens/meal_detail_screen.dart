@@ -5,7 +5,6 @@ import '../models/meal.dart';
 class MealDetailScreen extends StatelessWidget {
   final Function(Meal) onToggleFavorite;
   final Function(Meal) isFavorite;
-  // final bool Function(Meal) isFavorite;
 
   const MealDetailScreen(this.onToggleFavorite, this.isFavorite);
 
